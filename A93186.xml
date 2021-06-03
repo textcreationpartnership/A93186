@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The shooe-makers glory: or, The princely history of the gentle craft shewing what renowned Princes, heroes and worthies, have been of the shooe makers trade, both in this, and other kingdoms; likewise why it is call'd the gentle-craft; and that they say a shooe-maker's son is a Prince born, &amp;c. The whole adorn'd with new cuts suitable to the subject.</title>
+         </titleStmt>
+         <extent>Approx. 71KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93186</idno><idno type="EEBO-CITATION">99895531</idno>
+  <idno type="VID">152996</idno>
+  <idno type="EEBO-PROQUEST">2248572892</idno>
+  
+            <idno type="STC">Wing S3524A</idno>
+            <idno type="STC">ESTC R229836</idno>
+            <idno type="PROQUEST">99895531</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895531e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152996)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2339:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The shooe-makers glory: or, The princely history of the gentle craft shewing what renowned Princes, heroes and worthies, have been of the shooe makers trade, both in this, and other kingdoms; likewise why it is call'd the gentle-craft; and that they say a shooe-maker's son is a Prince born, &amp;c. The whole adorn'd with new cuts suitable to the subject.</title>
+               </titleStmt>
+               <extent>24 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by and for W.O. and are to be sold by C. Bates in Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Shoemakers --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152996:1"/>
+            <p>The Shooe-makers GLORY: OR, THE Princely History OF THE GENTLE CRAFT: SHEWING What Renowned Princes, Heroes and Worthies, have been of the Shooe makers Trade, both in this, and other Kingdoms; like<g ref="char:EOLhyphen"/>wise why it is call'd the Gentle-Craft; and that they say a Shooe-maker's Son is a Prince born, <hi>&amp;c.</hi>
+            </p>
+            <p>The whole adorn'd with new Cuts suitable to the Subject.</p>
+            <figure>
+               <p>Crispin</p>
+               <p>Crispianus</p>
+               <figDesc>woodcut in two panels: Crispin and Crispianus; Ursula and Crispin</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by and for <hi>W. O.</hi> and are to be sold by <hi>C. Bates,</hi> in <hi>Pye-corner.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="story">
+            <pb facs="tcp:152996:2"/>
+            <pb facs="tcp:152996:2"/>
+            <head>The History of the GENTLE-CRAFT.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>How a Renowned British Prince of <hi>Powisland,</hi> stiled Sir <hi>Hugh,</hi> as being Knight<g ref="char:EOLhyphen"/>ed by the Roman Emperor for his brave Exploits, returning home, fell in Love with Fair <hi>Winifred.</hi> Daughter to the King of <hi>Flintshire;</hi> how he was Enter<g ref="char:EOLhyphen"/>tained at her Father's House, and discover'd his Mind to her, and the Answer he received from her of her Aversion to Marriage, and giving up herself to a de<g ref="char:EOLhyphen"/>vout way of single Life, and other Matters, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut: Sir Hugh before the Roman Emperor; Sir Hugh meets Winifred; Sir Hugh proposes to Winifred in her arbor</figDesc>
+                  </figure>
+               </p>
+               <p>WHEN this famous Island of <hi>Great Britain</hi> was divided into many King<g ref="char:EOLhyphen"/>doms, Wars raged among the petty Princes, and much Blood-shed en<g ref="char:EOLhyphen"/>sued; in these days, among the British and Welsh Kings, one <hi>Arvi<g ref="char:EOLhyphen"/>ragus</hi> govern'd that part call'd <hi>Powisland,</hi> very prudently, to the content of his Subjects; and marrying a fair Lady named <hi>Genura,</hi> Daughter to the King of <hi>North Wales,</hi> he had by her a goodly Son, named <hi>Hugh,</hi> whom he brought up tenderly to Learning, and all other things that were requisite to accomplish a Princely Mind; sending him, when he came to Years, beyond the Seas to tra<g ref="char:EOLhyphen"/>vel, where he visited the Courts of all the most noble Kings and Emperours, and did many brave Exploits in Arms, and in single Combats against Monsters and Gyants, so that his Fame and Renown spread every where; and coming to the Court of the Roman Emperour, being imploy'd as his General against the <hi>Sarazens</hi> that invaded <hi>Spain</hi> and <hi>Italy,</hi> he did such Wonders in Valour, by over<g ref="char:EOLhyphen"/>throwing and putting them to the rout, that upon his Return he not only trium<g ref="char:EOLhyphen"/>phed, but was Knighted by the Emperour, and one of his Daughters was pro<g ref="char:EOLhyphen"/>posed to him in Marriage; but he excused it, as not inclining to change his condi<g ref="char:EOLhyphen"/>tion, which made the beautious Princess much grieve, for she had set her Affec<g ref="char:EOLhyphen"/>tions very tenderly on him, he being of a comely Personage, affable Temper, and courteous Behaviour. The Wars abroad ending, he returned home; and in his return, visiting <hi>Donvallo</hi> King of <hi>Flintshire,</hi> he had a sight of <hi>Winifred</hi> his fair Daughter, whose Beauty and Carriage he contemplated and admired so long, till Love began to fix a spark of its coelestial Fire in his Bosom; the which, tho' he laboured to exstinguish (in purposing to lead a warlike Life, and procure to him<g ref="char:EOLhyphen"/>self a lasting Name for great and glorious Enterprizes) he could not do, till it grew up immediately into a Flame, and he found himself constrain'd to love this
+<pb n="4" facs="tcp:152996:3"/> admirable Creature; who was, on the contrary, subject to no passion of Love but that that was the noblest, which is a divine Love to her Creator: Whilst he stay'd in her Father's Court, he made many Shews and Gestures to render her sensible that her fair Eyes had kindled a Passion in his Breast, that he could not fancy but she well enough perceiv'd them; so at that time he took his leave and rode pensive home, where he was receiv'd with great Joy by his Parents and Friends, to whom he related his various Adventures, but kept that of his Love secret; so that the violent Flame feeding on his Spirits, among all the merriments made for his Welcome, he found himself rest<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ess and uneasie; wherefore he re<g ref="char:EOLhyphen"/>solved to visit the fair Object of it, and of her intreat a Cure for the wound her pointed Beauties had given him; nor cou'd he long delay putting these resolves in Practice. Three days after he went to her Father's house, where he was re<g ref="char:EOLhyphen"/>ceived according to his Quality; and after dinner, walking in the Garden, he <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uckily, as he wish'd, found the fair <hi>Winifred</hi> reading in a solitary Arbor in the remote part; and so intent was she on her Devotions, that he approached very near her before she saw him, when immediately, a crimson Blush spreading over her Face, she arose and wou'd have gon; but Sir <hi>Hugh,</hi> bending on knee to the ground just in the passage, with an humble Submission intreated her not to be disquieted at his approach; but, in tender compassion to his Sufferings, stay a few moments and hear what he shou'd utter from an unfeigned Heart. At this, she commanding him to rise, recollecting her spirits, sat down and bid him say what he wou'd, but as briefly as might be. The noble Lover, taking courage at this free Liberty, after having return'd her many thanks, he thus began, <hi>Fairest of Creatures, that ever Nature fram'd, pardon me if I am constrain'd to beg Mercy at your Hands, and implore your Pity to cure the Wounds your bright Eyes have made in my Heart; I love dear</hi> Winifred, <hi>and to that degree, that no words can express a Passion that exceeds all Ʋtterance.</hi> He wou'd have proceeded, but she, inter<g ref="char:EOLhyphen"/>rupting him, said, <hi>I am sorry, Sir, to hear these expressions from you; yet how ever, if your Love be virtuous, and proceed no farther than that of one Friend to a<g ref="char:EOLhyphen"/>nother, or such love as Brothers may yield to Sisters, chast and undefiled, your Con<g ref="char:EOLhyphen"/>dition is not so bad as you fancy it, for then I may yield you some Redress; but if it aim at Marriage, or Fruition of any such Tendency, all that you can say will be in vain and fruitless, for I have vow'd a single and chast Life, as being already espou<g ref="char:EOLhyphen"/>sed to the glorious Bridegroom, even him that has woo'd and won me with his Love, after I was his by right of Creation, and doubly made so by his Purchasing me with his rich redeeming Blood.</hi> Sir <hi>Hugh</hi> at this fetched a great Sigh, and told her, That he hoped she was not so strictly bound up to her Vow, seeing Religion is no Prohibitor of Marriage, but that it is by those holy Ordinances enjoyn'd: <hi>And therefore,</hi> said he, <hi>I hope you will pity my youthful Years; as for my birth, You know, 'tis Royal as well as yours, and if my Exploits and Atchievements have hitherto come short of your Worth, I will labour, with double Diligence, to do something that may ease the Pain Love's Darts have made in my bleeding Heart, for which the World, or any thing else, cannot alot any Cure, except I enjoy your lovely Person in the soft Embraces of Marriage Delights. Alas,</hi> said She, <hi>then I can only pity your Sufferings, but may not cure them.</hi> And thereupon she departed leaving Sir <hi>Hugh</hi> in great Perplexity and Doubtings, and so for that time he cou'd not alter her mind; and so taking leave of her Father, with a seeming merry cheer, he departed, lamenting his hard Fate to love, and not to be belov'd again.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb facs="tcp:152996:3"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>How she put him off for three Months, and in that space made her Escape, in Dis<g ref="char:EOLhyphen"/>guise, from her Father's, to lead a solitary Life in a Vale, call'd <hi>Sichnaunt,</hi> in which stood a pleasant Grove; and how, thirsting for Water, a Well sprung up out of the hard Ground, which to this day is call'd St. <hi>Winifred</hi>'s Well, working wonderful Cures; how Sir <hi>Hugh</hi> found her, and being utterly deny'd, with great Sorrow left her, to travel in strange Lands; with the Adventures he met with, and the Dangers he escaped, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut: Sir Hugh and his brother; Winifred dreams of angels; Winifred prays for water; Sir Hugh finds Winifred in the grove</figDesc>
+                  </figure>
+               </p>
+               <p>SIR <hi>Hugh</hi> having well consider'd with himself, and resolving not to take the first denial, fancying time and serious deliberation might alter her mind to be less severe to him and herself; but upon his second Address he found her as resolv'd against Marriage as before, intreating him not to persecute her with a dis<g ref="char:EOLhyphen"/>course of that-kind, which was no welcomer to her than a storm to a Marriner, or water into a sinking Ship; but finding he grew importunate in his Suit, pres<g ref="char:EOLhyphen"/>sing her, with Tears in his Eyes, and many Entreaties, to grant him Love, she pro<g ref="char:EOLhyphen"/>posed to take time to rid herself of him, and told him he was too hasty in so weighty a Business, and therefore ought to be better advis'd, in taking himself, and giving her, time to consider of it: <hi>A Month, at least,</hi> said she, <hi>is but indif<g ref="char:EOLhyphen"/>ferent; and then</hi> (continued she) <hi>you may know more, perhaps, than you are aware of. Ah,</hi> said he, <hi>a Month, my Dear; nay, three Months, or any thing that might please thee, tho' I suffer never so many torments the mean while, so thy Love may at the end of that tedious time be my recompence. Nay,</hi> said she, <hi>I make no certain Promise, but take you at your word; and therefore let me not see you again (on pain of loosing my good Opinion for ever) till the end of the time you have mention'd, and in the mean while I will consider what may be for both our Advantages.</hi> Sir <hi>Hugh at</hi> this was grieved, but knew not how to go back; whereupon, he departed with a doubtful heart, thinking time ran too slow, often sighing, and calling on the Name of his lovely Mistress, looking in the morning, as soon it was day, towards her dwelling; whither he as yet might not go, and contemplating on her Beau<g ref="char:EOLhyphen"/>ties, and likewise often frequenting solitary Walks and ralking to the trees; which being one day over-heard by his Brother <hi>Griffith,</hi> he laboured to perswade him from such foolish disturbances, to take to him his manly Courage, and not to be conquered by the glances of a Virgin's eyes; urging, how fading Beauty was, and what ill Consequences attended such Passions; intreating him to recreate him<g ref="char:EOLhyphen"/>self with Hunting and other Delights: But this little avail'd, for he followed his
+<pb facs="tcp:152996:4"/> solitary Life. During this time, the fair <hi>Winifred,</hi> who, with her Parents ha<g ref="char:EOLhyphen"/>ving received the Christian Religion, the Kingdom then being mostly over-run with Pagans; and she labouring to convert them by her Words and pious Acti<g ref="char:EOLhyphen"/>ons, but finding them obstinate and untractable, grew weary of their Society, and putting herself in a disguise of plain and modest Attire, she made her escape in the evening, and betook herself to a pleasant grove, in the delightful Valley of <hi>Shicnaunt,</hi> in <hi>Flintshire,</hi> being about twenty miles from her Father's Palace of <hi>Pant-varre;</hi> and being weary she sat down to rest, and fa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling a sleep, saw Vi<g ref="char:EOLhyphen"/>sions of Angels, and many other things, that so delighted her, that she took that place for the gate of Heaven, resolving to lead a contemplative Life, spend her days in religious Worship, and trust to Providence for her Subsistance, living upon berries and wild fruits; but it being in the heat of Summer, and her thirst great, she went to the side of the Grove to seek in the valley for some water; but finding none, she fell on her knees and pray'd to God to supply her necessities, as he had done those of the Children of <hi>Israel</hi> in the Wilderness; which she had no sooner done but the Earth open'd, and out gush'd a Spring of clear Water, pleasant for sight and tast. This Well remains in <hi>Flintshire</hi> to this day, bearing her Name, and by some call'd <hi>Holy-well;</hi> and all about it, where this Virgin used to walk, grows a fragrant Moss, very soft and pleasant, always continuing g<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>een winter and summer: This water likewise is held to be of that Virtue, that it often has cured diseas'd Persons, so that great numbers of them have usually flocked to it. But leaving the fair Virgin in her resolved Solitude, let us return to Sir <hi>Hugh:</hi> The Sun by this time had made his Progress through three Signs of the <hi>Zodiack,</hi> and the three tedious months expired Sir <hi>Hugh</hi> was enjoyn'd absence from his dear Love; then he hasted, with great Joy, thinking to find her at her Father's Palace; but there, on the contrary, he found them all sad and in tears for her departure, not knowing what was become of her; whereupon Sir <hi>Hugh,</hi> tho' very sorrowful himself, suppressed it in the best manner to comfort her aged Parents, making a Vow to search the whole World for her, if in a less compass she was not to be found, and never to give over till he had seen her. Hereupon the good old Prince tenderly embraced him, and so mounting his stately Steed, with his trusty Sword by his side, he rode all about the Mountains and Desarts, till at last com<g ref="char:EOLhyphen"/>ing to the Valley of <hi>Shicnaunt,</hi> he heard, under a little tufft of trees, on the side of a very pleasant Grove, such heavenly Musick as ravished his Senses; when going to see from what sweet Mouth it proceeded, he espy'd his fair <hi>Winifred</hi> sitting on mossy tuffts, singing her evening Song of Anthems and Praises; when, leaping from his horse, he presented himself in a most humble and obliging manner before her at whose sight she started, being not a little surpriz'd; but he, intreating her not to fear, sat down by her, telling her, now the long time of his penance being ex<g ref="char:EOLhyphen"/>pired, he was come again to renew his Suit, in hopes of a favourable Answer; but met with the contrary, for she plainly told him, she did renounce the World, and all its Pleasures, and wou'd never give that Love to any mortal Creature, which she had intirely placed on her immortal Spouse; and tho' he urged all he could, yet he could not find her any way flexible, either to grant him her Love, or to remove from that place: This made him sorrow very grievously, so that his eyes could not refrain from tears: After this he made her Parents acquainted with the solitary place of her residence, and also with the love he bore to her; in hopes they might remove her thence, and further his suit; but finding they could not
+<pb n="7" facs="tcp:152996:4"/> prevail, tho' they labour'd much in it, he took his leave of her with heavy sighs, resolving to find out a Country to spend the remainder of his days, wherein no Woman ever inhabited, whose fair faces promises so much goodness, and yet their hearts cruel, and as hard as rocks; and so, falling into a rage, and exclaim<g ref="char:EOLhyphen"/>ing against the whole Sex, he rode to the Sea-side, took shipping, and passed o<g ref="char:EOLhyphen"/>ver to <hi>France,</hi> where he saw many fair Women, with wanton eyes; and so in a great many others Countries, who entertain'd him with Songs, and invited him to wanton Embraces; so that dispairing to find a Country haunted by none of these Land-syrens, and dreaming that he was a gain in fair <hi>Winifred</hi>'s company and that she received him with kinder eyes, and being weary with long travel, he was resolved to return home again, hoping the best of his Royal Lady and Love.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>How Sir <hi>Hugh,</hi> in his return to <hi>England,</hi> was cast away on the Coast of <hi>Sicily,</hi> and the dangerous Fight they had with divers One ey'd Giants; how he escaped the monstrous Beasts, when driven into a Forrest for shelter; how, getting shipping, and coming to <hi>England,</hi> he fell in with a Company of merry Shooe-makers at <hi>Harwich,</hi> who prevailed with him to work at their Trade; how they came to be called the Gentle-craft; how he was imprisoned with fair <hi>Winifred,</hi> and suffered Death with her for the Christian Religion; lea<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing his Bones as a Legacy to the Shooe-makers, and others matters, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <figure>
+                  <figDesc>Woodcut: Sir Hugh shipwrecked; Sir Hugh meets the shoemakers; bringing food to the jail; Sir Hugh and Winifred executed; the shoemakers steal Sir Hugh's body from the gibbet</figDesc>
+               </figure>
+               <p>SIR <hi>Hugh</hi> taking shipping at <hi>Venice,</hi> in order to return to <hi>England,</hi> after a day's sail rhe ship was caught by a tempest which drove it on the rocks of <hi>Sicily,</hi> and broke it in pieces, yet where the Men saved, but crawling on shore, they where assaulted by a barbarous sort of People, called <hi>Poliphemes,</hi> with but one eye each, which stood in the middle of their foreheads, these Giants with mighty clubs, killing divers of the Men, and afterward eat them; tho Sir <hi>Hugh</hi> having done wonders with his sword, finding his Company over-power'd, escaped by retreating into a wood, and hiding himself in the branches of a high tree, be<g ref="char:EOLhyphen"/>ing all night terrify'd with the noise and cries of wild Beasts; there he saw an Ele<g ref="char:EOLhyphen"/>phant and a Dragon fight, till the Elephant fell, the Dragon having poyson'd him so that he burst asunder; but the next morning, by the friendly Guidance of a<g ref="char:EOLhyphen"/>nother Elephant, he found the way to a Seaport-town, and there getting ship<g ref="char:EOLhyphen"/>ing, came to <hi>England,</hi> in poor condition, having lost all he had in the storm, u<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>less an old suit and a very <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:152996:5"/> on board an English Ship, and came safe to <hi>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rwich;</hi> where going to a house of entertainment to refresh himself, he met with a company of merry Journey-men Shooe-makers, whose pleasant tales and merry songs so delighted him, that he de<g ref="char:EOLhyphen"/>sired to be admitted into their company, thinking here to divert his melancholy. The boon Companions could not refuse this ci<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il request, so in a little while they grew better acquainted; and then, having discoursed of one anothers travels, he making his poor condition known, they desired him to stay with them, and they wou'd not only provide for him, but teach him their Craft; which he (hearing that <hi>Winefred</hi> follow'd her solitary way of living, and wou'd not be won from it) consented to, and grew very expert in it; and so this princely Shooe-maker con<g ref="char:EOLhyphen"/>tinued working a whole year, being for his courteous Behaviour greatly belov'd of all. During this time, <hi>Dioclesian,</hi> the cruel persecuting Emperor, coming over, and finding the Christian Religion began to flourish, he put great numbers of them to death by divers sorts of torments, commanding others to worship his Idols, and sent <hi>Winifred</hi> to prison for refusing it, and speaking against their heathenish Worship and Idolatries. Sir <hi>Hugh</hi> no sooner heard of his Mistress's unjust confine<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, but he went often to the Prison, but was deny'd the seeing of her; yet he procured all manner of Dainties, and sent them privately by a Keeper who he bribed for that purpose; for which, and for speaking in the praise of the Christian Religion, and vindicating her in what she had said or done, he was by the Ty<g ref="char:EOLhyphen"/>rant's order, clapt up in the same Prison with her. This greatly rejoyced his heart, that she might see how couragious and constant he was to his Religion and Love; and here the Journey-men Shooe-makers sent him relief daily, and were so kind to him, that he styl'd them, <hi>Gentlemen of the Gentle-Craft;</hi> and that Stile has ever since continued to them: He also wrote a curious Encomium in praise of the Craft, how gentle-and comfortable they liv'd, how friendly to strangers, and loving to one another, concluding in these Lines;</p>
+               <lg>
+                  <l>Of all the Crafts the <hi>Gentle-craft</hi> is best,</l>
+                  <l>Their pleasant Songs makes Labour seem like Rest;</l>
+                  <l>In Mirth and Comfort all the Year they live.</l>
+                  <l>And unto Strangers oft Relief they give;</l>
+                  <l>They merry are when Cares makes Princes grieve:</l>
+                  <l>Nay, more than this may of their Craft be said,</l>
+                  <l>For many Princes have been of their Trade.</l>
+               </lg>
+               <p>Long this princely Shooe-maker had not been in Confinement with his fair <hi>Wini<g ref="char:EOLhyphen"/>fred</hi> (who now looked on him with pleasant eyes, not of carnal, but of soul-ravish<g ref="char:EOLhyphen"/>ing Constancy, in expectation he wou'd adorn the Christian Religion with her, by laying down his life, that their chast Souls might meet in endless Bliss, never to be separated) but an order came that they shou'd be try'd as Contemners of the the Gods, and for drawing away the People from the ancient worship of their Fa<g ref="char:EOLhyphen"/>thers; at which tryal they behav'd themselves with great constancy and courage, affirming their Gods to be no Gods, but the workmanship of Mens hands, foo<g ref="char:EOLhyphen"/>lish Idols, unable to help themselves, much more they that trusted in them; also preached to them Christianity in its purity and excellency, warming them to fly from the wrath to come: This so inraged the Tyrant, that ordering a scaffold
+<pb n="9" facs="tcp:152996:5"/> to be erected, he commanded they should be immediately put to death; to which they went hand in hand joyfully, the fair <hi>Winifred</hi> giving him many words of com<g ref="char:EOLhyphen"/>fort, with full assurance that he should always have her company, among the Blessed in Heaven, and there be united in endless love, which exceeded all earthly Felicity, The Tyrant upon this, understanding Sir <hi>Hugh</hi> had run his misfor<g ref="char:EOLhyphen"/>tune for the love of <hi>Winifred,</hi> would have perswaded him to recant; but he with disdain refusing, he caused her to be bled to death, and her blood to be mixed with strong poison, and given him to drink; which he took and drunk with much patience, and so ended his life, falling on the body of his beloved, ha<g ref="char:EOLhyphen"/>ving taken before a parting kiss from her cold lips. And having nothing to leave his Friends, the Shooe-makers, as a legacy, bequeathed his bones to them; that as it was ordered by the Tyrant he should be hanged upon the gibbet, after he was dead, for the fowls of the air to eat his flesh, they may take down his bones and keep them in remembrance of him: And indeed, not long after, a company of merry Journey-men shooe-makers, meeting at a little tippling-house near to the place where Sir <hi>Hugh</hi>'s now bare bones hung, and remembring his legacy; after some consult held among them, they agreed to take them by stealth; and that they might the better have him in remembrance, they concluded to make hafts for their tools with them, which was put in practice; and from this the usual saying comes, that when we see a Shooe-maker with his tools at his back, we cry, <hi>There goes Sir</hi> Hugh'<hi>s Bones;</hi> and thus these two famous Persons ended their Lives. Upon whose Memory the Craft made the following Lines:</p>
+               <lg>
+                  <l>Behold the mathless Love of good Sir <hi>Hugh,</hi>
+                  </l>
+                  <l>For when he found no Arguments would do,</l>
+                  <l>But that sweet <hi>Winifred,</hi> that Lady fair,</l>
+                  <l>Had drove him to the Point of sad Despair;</l>
+                  <l>And that he cou'd no Ease or Comfort find,</l>
+                  <l>For the refreshing of his grieved Mind,</l>
+                  <l>On Board he went, and cross'd the raging Main;</l>
+                  <l>Yet at the length he back returns again,</l>
+                  <l>Through dismal Dangers, to his Native Land;</l>
+                  <l>Where, to his grief, he came to understand,</l>
+                  <l>She was Imprison'd for Religion sake;</l>
+                  <l>Strait unto her he did his Journey make,</l>
+                  <l>Defending of the Truth to his last Breath,</l>
+                  <l>Meeting together in the Arms of Death:</l>
+                  <l>In Love they liv'd, in Love they likewise dy'd;</l>
+                  <l>Whose spotless Souls, we hope are Glorify'd.</l>
+               </lg>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="10" facs="tcp:152996:6"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>How <hi>Crispianus</hi> and <hi>Crispine,</hi> Sons to the King of <hi>Logria,</hi> or <hi>Kent,</hi> after their Fa<g ref="char:EOLhyphen"/>ther's Death, were sent by their Mother to seek their Fortunes, and by that means escape the Cruelty of the Emperor <hi>Maximinus,</hi> who sought their lives: how at <hi>Fe<g ref="char:EOLhyphen"/>versham,</hi> they bound themselves Prentices to <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Shooe-maker; how their Mother was Imprisoned for sending them away; how <hi>Crispine</hi> going to the Court with Shooes, fair <hi>Ursula,</hi> the Emperor's Daughter, fell in love with him, and discovering her mind, they were privately married.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut: Crispianus and Crispin leave their mother; Crispin brings Ursula her new shoes; Crispin and Ursula wed in secret</figDesc>
+                  </figure>
+               </p>
+               <p>IT so happened that not many years after the decease of cruel <hi>Dioclesian,</hi> who had so inhumanely put Sir <hi>Hugh</hi> and his beloved <hi>Winifred</hi> to death, who were both for their piety canoniz'd for Saints, <hi>Maximinus,</hi> another, no less cruel, arose in his stead, and because some insurrections, to cast off this yoke, had been raised by the British Princes, he banished many of them, took the Children of others Hostages for their good abearing, the Male of which he caused to be gelded, or privately made away, that he might assure this noble Kingdom with the less disturbance to his Successors, and among others, the two Sons of the noble King of <hi>Logria,</hi> being sent for, and refused by Queen <hi>El<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leda,</hi> their Mother, their Fa<g ref="char:EOLhyphen"/>ther having some time before been sent into banishment, and there died; and she hearing that he was coming to take them by force, called them to her, and with tears in her eyes, tenderly kissed them, and said, <hi>Ah! my dear Children, your lives are sought for, as well as others, who have been cruelly destroyed; the Tyrant is coming to seize you, as a vulter seizes a harmless lamb in his griping tallents; there<g ref="char:EOLhyphen"/>fore you must be Strangers to me for a time, and, in these disguises, seek your for<g ref="char:EOLhyphen"/>tunes as Providence shall lead you.</hi> The eldest of these, whose name was <hi>Crispi<g ref="char:EOLhyphen"/>anus</hi> and the younger <hi>Crispine▪</hi> greatly marvelled at this discourse of their Mo<g ref="char:EOLhyphen"/>ther's, as being new and surprising to them; yet <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he urging it as exceeding necessary, and, like the Mother of <hi>Moses,</hi> not being longer able to keep them se<g ref="char:EOLhyphen"/>cret, they took the homely raiment she had provided, and some little money in <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>i<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>kets, the better to avoid suspition, and so, with many tears and embra<g ref="char:EOLhyphen"/>ces, the Queen gave them her blessing, and dismissed them; and it was in a hap<g ref="char:EOLhyphen"/>py hour, for they were not gone many miles, but the Tyrant came to search for them; and tho', upon being missed, pursute was every-where made, and the Pursuers saw them, yet, thro their disguise, and meanness of attire, they escaped ex<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mination. The young Princes straying from <hi>Canterbury,</hi> where the ancient <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Kings of <hi>Kent</hi> was seated, travelled all that day, and at nigh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:152996:6"/> reached <hi>Feversham,</hi> where they walked up and down the streets, destitute of lodging, till coming to the corner of a street they were some-what comforted by a merry song they heard a Journey-man-Shooe-maker singing at his work, by peeping thro the key-hole: This made them wish their condition was the same rather than what it was, then should they be freed from many cares and fears that now oppressed them: <hi>Well Brother,</hi> said <hi>Crispine, I think it would not be a<g ref="char:EOLhyphen"/>miss, since you like the Fellow's merriment so well, if that, for a time, we seek to be entertained in this house,</hi> Which the other liking well, they gently knocked at the door: <hi>Who's there?</hi> says the Journey-man. <hi>What would you have at this time of night? Some sawcy Knave or other, I'll warrant it;</hi> and with that, taking up his staff, he opened the door, resolving to have a brush if there was occasion but seeing them comely Youths, and speaking in a submissive manner, he began to pity them, demanded what they would have: They told him, being friend<g ref="char:EOLhyphen"/>less, as having lost their Father in the wars, and nothing left them to subsist on, they were turned out to a desperate fortune, and would willingly undertake any business they could be capable of, for an honest livelihood: These words spoke with an innocent countenance, moved the Journey-man to a good liking of them; whereupon, bidding them stay, he call'd down his Dame, and she looking earnest<g ref="char:EOLhyphen"/>ly upon them, and demanding, whether they would be Shooe-makers; and they applying in the affirmative that they would; she called her Husband, and so dealt with him, that they where entertained in the house, and soon became very expert at their business, contenting and very well pleasing the whole Family; and tho search was made after them in that Town, yet in the station they were in none took notice of them; so that not being to be found, the Tyrant <hi>Maximinus,</hi> very much inraged, sent the Queen, their Mother, to prison, that by a hard confinement she might be constrained to discover; but she would by no means be induced to it by threats or fair promises, though she had notice from them where they were. And to this Shooe-maker, whose name was <hi>Robands,</hi> they were bound 'Prentice for seven years, in which time he grew rich, having all the trade of the Nobility and Gentry in those parts; and so fam'd he was for the best work, that he was introduced to the Court, and at last became the Emperor's Shooe-maker, by which means his Servants frequently went thither. During these transactions, the Persians invading <hi>France,</hi> and <hi>Maximinus</hi> sending British Forces to a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sist that King, <hi>Crispianus</hi> desirous to try his fortune in the field, went over with them, leaving his Brother sorrowful for his departure; who be<g ref="char:EOLhyphen"/>ing one day sent to Court with Shooes, the fair Princess <hi>Ʋrsula</hi> cast her eyes up<g ref="char:EOLhyphen"/>on him, and seeing him a comely Person of an extraordinary obliging behaviour could not but fancy with herself, that he must be more by birth than he appear'd and tho she was the Emperor's Darling, her Mother being dead, and leaving be<g ref="char:EOLhyphen"/>hind her no more Children, and he designing to marry her with some mighty Prince, yet she was so taken with this Shooe-maker, that she shewed him such Civi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity, that he wondered at it, thinking at first she might know him, and to settle the Kingdom more firmly on herself she design'd to get from him, by fair promises, his birth and quality, thereby to ensnare his life, which made him resolve to be cautious in it; so that she well perceiving he regarded not her amorous glan<g ref="char:EOLhyphen"/>ces, kind words, or the other favours, she cast in her mind how to come nearer to her purpose, for every time she saw him, her love increased, and grew <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ged the greater flame, insomuch, that one day when he came to Co<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:152996:7"/> him of the ill make of her Shooe, she ordered him to take measure of her, and bring her a pair more suitable to her hunour: At this, bowing low, he promised to make them, and set every stitch with his own hands, so that he doubted not but they would please her Highness; and so having taken measure of her deli<g ref="char:EOLhyphen"/>cate foot, and having order to deliver them into her own hands, he departed. When he was gone, she began to meditate with herself what she was about to do, which caused blushes in her fair face; yet, thought she, were this Youth in Princely attire, he would even disgrace other Princes in his comely Behaviour and Person; and therefore, concluding he was something more than he seem'd to be, she resolv'd, at a venture, to declare her mind to him, taking little rest for his absence; at length he had compleated that which compleated his Fortune in the highest degree, and carrying them, had, by her order, admittance into her chamber, where he fitted them, and so well pleased her with his work, that she gave him an ange; whereupon, bowing low, he was about to depart; but she ordering the Ladies out of the room, took him gently by the hand, saying, <hi>I prithee,</hi> Crispine, <hi>tell me, art thou not in love, that you so spruce up your self of late <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Truly, Madam,</hi> said he, <hi>if I should be out of love, I should be out of charity, all Creatures are subject to it. Ay, but,</hi> said she, <hi>one question more, Tell me who this pretty Lass is that has got thy heart? In good troth, Lady,</hi> says he, <hi>all the love I profess, is, first to my Maker, who has done such great things for me; next to my good Master and Dame, then to all in charity: But as for any particular love to Wo<g ref="char:EOLhyphen"/>man, as yet, my heart is free from it, my tender years, and bashful nature have not admitted me to rove so far. I have heard of the many misfortunes that have befel poor Lovers, and therefore dare not venture lest the case should be my own, and I grow mi<g ref="char:EOLhyphen"/>serable thereby. Ay,</hi> said the Princess, <hi>that is where crosses and discontented mar<g ref="char:EOLhyphen"/>riage happens to perplex them; but in true love, there are abundance of sweet contents, a virtuous loving Wife is a treasure; therefore if I should prefer you to such a one, could you refuse her? Truly,</hi> reply'd he, <hi>I should be unmannerly and ill-natur'd, if I should slight your Highness's Goodwill towards me, Well,</hi> said she, <hi>then know you shall have a stock of Virtue with her, and as for her beauty, I think it will be well e<g ref="char:EOLhyphen"/>nough to content an honest man. Ay, Madam,</hi> said he, <hi>but a stock of Virtue will not pay the Tanner, nor buy me sole-leather; if I could carry her to market with me, as times go, they are not current coin. Well,</hi> said she, <hi>to be short, look on me, she is as like me as can be; for her portion, I will be responsible beyond your wish; and for her wisdom, time will shew it. If she be like your Highness,</hi> said he, <hi>she is well worthy of all l<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve; yet if my presumption reach not too high, I had rather it were your self, than your likeness; and if I were well known, I might be thought worthy of a Queen. Well, Shooe-maker,</hi> said she, <hi>I see thy courage; but suppose it were my self, darest thou venture to die for a Lady's love? No, Madam,</hi> said he; <hi>if I could keep your love and live. Then live,</hi> said she, <hi>and know I love you, and will marry you, and screen you from my Father's wrath, which is the only thing that you can dread;</hi> and there<g ref="char:EOLhyphen"/>upon gave him a kiss. After he had found her true affection to him, he greatly reioyced, and told her all the secrets of his heart, and what his birth was, and what caused him to be a Shooe-maker, which pleased her mightily; and so that evening they appointed to meet in the Park under the great oak, to consummate their marriage privately: The Princess delay'd not to be there before him; and <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> brought a Priest with him, who, not knowing her in her disguise, for a <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> married them; then dismissing the Priest, and retiring to a pleasant
+<pb n="13" facs="tcp:152996:7"/> bower, they enjoyed the first fruits of their love, to both their hearts content; and after they had dallianced in their amorous sport a while, she retired private<g ref="char:EOLhyphen"/>ly to the Palace, the most pleased of Womankine; and he, the happiest of Men, to his Master's House. After this, they often met and enjoyed each others sweet company; and <hi>Crispine</hi> at his work usually sung and discoursed in the praise of Marriage, shewing himself so joyful that all the Journey-men wonder'd at it; where we will leave him a while, and return to <hi>Crispianus.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>How <hi>Crispianus</hi> went to serve in the War, against the Persians that invaded <hi>France,</hi> and the brave Exploits he performed in Rescuing the King, and Overthrowing the Persian General <hi>Iphicrates,</hi> who was a Shooe-maker's Son; how a Peace was concluded thereupon, and <hi>Crispianus</hi> with Letters of Recommendation from the King of <hi>France,</hi> to the Emperor <hi>Maximinus,</hi> returned into <hi>England;</hi> how <hi>Ursula,</hi> proving with Child, <hi>Crispine</hi> made the matter known to his Dame and Master, and how she Lay-in secretly at their House; and how they were Reconciled to the Emperor, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut: pregnant Ursula escapes to the shoemaker's home; Crispianus returns to court with Crispin, Ursula and their child</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <hi>CRispianus</hi> being beyond the Sea, in arms against <hi>Iphicrates,</hi> the renowned Persian General, who was himself a Shooe-maker's Son, and by his many warlike exploits had rise to command a mighty Army, conquer Kingdoms, and reduced almost all <hi>France</hi> to his obedience, he sent a bold Challenge of defiance to the French King, in the name of himself and the Persian Army; whereupon on a great plain, the battle was appointed; and a bloody fight ensued; the Persian General, like lightning, breaking in among the French Squadrons, and seconded by his best Troops, bore all down before him, in revenge that they had reproach<g ref="char:EOLhyphen"/>ed him for being the Son of a Shooe-maker, his courage redoubled, and pressing on; he came to the Royal Standard, where the King was, and beating it down, after a bloody encounter, wherein thousands were lost, took the King Prisoner from the midst of his Guards, and was carrying him to his tent; all this while <hi>Crispianus</hi> had done wonders, so that he was noted above all the Commanders, and having pursued and slain a great Party of the Persians, and returning, and perceiving the the King Prisoner, broke into that Troop, overthrew the Persian General after a bloody onset, set the King at liberty, and did such wonders that the Enemy sounded a retreat, leaving the victory ro the French; the sole praise of which was given to <hi>Crispianus;</hi> and when they knew he was but a Shooe-maker, they extolled his courage and bravery the more, wishing all the Army urged the
+<pb n="14" facs="tcp:152996:8"/> trade, and then they would be invincible; his Praise sounded loud every-where so that the Persian General hearing of it, for the sake of their trade, and honour of the Gentle-craft, he concluded a Peace, and retired out of the Country, to the great joy of the Inhabitants, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmortal Renown of <hi>Crispianus,</hi> to whose Worth and Valour they attributed their safety; so that they held great feasting for many days. Now all being in peace, <hi>Crispianus,</hi> with the British Forces, de<g ref="char:EOLhyphen"/>parted home; the King sent Letters of high Commendation by him to <hi>Maximi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi> reporting the wonders he had done, recommending him to his special favour, as most worthy of it. Whilst <hi>Crispianus</hi> was upon his return, the Princess <hi>Ʋrsula</hi> grew big with Child, informing <hi>Crispine</hi> of it, intreating him not to leave her for fear of her Father's anger, for that she would accompany him any where, thinking a homely Cottage with him, above all the delicacies of a Palace without him, and that his absence would certainly break her heart. At this he tenderly kissed her ruby lips, wiped away the pearly tears that trickled form her fair eyes, and said unto her, <hi>I will undergo all the hazards of death and torture, before I will leave you.</hi> Then they began to contrive where she might Ly in secretly; which <hi>Crispin</hi> entreated her to leave to his care, and when he had provided such a place, he wou'd privately send her word; so at this time they parted. <hi>Crisp<g ref="char:EOLhyphen"/>ine</hi> thought this business could not be in safer hands than his Dame's, who had shewed him much love all this time, and was not a little amorous of him, en<g ref="char:EOLhyphen"/>deavouring many ways to let him see it; but tho' he well noted it, he dissembled that knowledge; and so finding her in private, he told her, <hi>I have a secret of great importance to reveal to you.</hi> Which she thinking to be an answer of her de<g ref="char:EOLhyphen"/>sires in the return of Love, the sooner gave audience; but, when, contrary to her expectation, he told her the business, she fell into an extravagant pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sion, wringing her hands, and crying out, <hi>O</hi> Crispine, <hi>thou hast undone thyself; thou wast a goodly Fellow, and mightest have liv'd happily; but now (having got a Wench with Child) thou hast broke thy Indentures, and art utterly ruin'd: What will you do for milk, pap, biggins, clouts, and a hundred other necessaries; Well, I believe she tempted thee to this folly; and, I fackings, I'll have her by the nose for it. Whilst</hi> the old Wise used these speeches, <hi>Crispine</hi> knew not what to think of it; but, whilst he was about to explain the business, the Master, hearing the noise, came in to know what the matter was; and having understood that his Man had married the Emperor's Daughter, he stood astonish'd, and cou'd not be induced to believe it; or that, as he said, himself was a Prince born: However, at last they agreed she should ly-in secretly there; and soon after, upon the signal given, which was the firing a Tree, which made others on the Coast fire their becons, and a false rumour to be spread, That the Enemy was landed, in the hurry and confusion the Princess made her escape in disguise, and was deliver'd at the Shooe-maker's of a fair Son, to the great joy of the Parents, who might now truly say, <hi>A Shooe-maker's Son is a Prince born.</hi> During these transactions, <hi>Crispianus</hi> came from the War, laden with Renown, and was much joyed to find his Brother so happilymarried; and, going to Court, with his Letters of Recommendation, be was nobly entertain'd by <hi>Maximinus,</hi> who bid him ask any thing within his power, and he would freely give it him for the Honour he had done his Country. Then he boldly told him who he was; and desired his Mother might be set at liberty; which was immediately done. The Emperor telling him, That had he <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ily lost his Daughter, he would have matched him to her. At which
+<pb n="15" facs="tcp:152996:8"/> time, as it was contrived, <hi>Crispine</hi> and the Princess came in with their Child, which much suprized the Emperor; but at length, being given to understand the Shooe-maker she had married was <hi>Crispianus</hi>'s Brother, and all the circum<g ref="char:EOLhyphen"/>stances that attended their loves, he took them into Favour; and they lived happily all their lives afterward.</p>
+               <lg>
+                  <l>Young <hi>Crispine</hi> going to the Court, he won a Lady gay,</l>
+                  <l>And as the truth we may report, she was convey'd away</l>
+                  <l>From thence, she being great with Child, a season to remain;</l>
+                  <l>At length her Friends was reconcil'd when she return'd again.</l>
+                  <l>For <hi>Crispianus</hi> came from <hi>France</hi> with Honour and Renown,</l>
+                  <l>The Lovers came just then by chance, and as they kneeled down,</l>
+                  <l>They ask'd her Father Blessing there, his Anger to expel;</l>
+                  <l>Who pardon'd them, and did declare, he lik'd the Marriage well.</l>
+               </lg>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>How one <hi>Simon Eyre,</hi> a poor Boy, coming from <hi>Rippon,</hi> in <hi>Yorkshire,</hi> was taken in by a Shooe-maker in St. <hi>Martins;</hi> how he married, set up, and grew wonder<g ref="char:EOLhyphen"/>ful Rich; was chosen Sheriff, and of his Table that he valued at a thousand Pound; how, three Years after, he was Elected Lord Mayor, and also Knighted; how, according to his Promise, he Feasted all the Apprentices on <hi>Shrove-Tuesday;</hi> with the reason why the little Bell is call'd the Pancake-bell; how he built <hi>Leaden-hall,</hi> and many other worthy Deeds; and also how his Man <hi>Nicho<g ref="char:EOLhyphen"/>las</hi> deceiv'd <hi>John</hi> the French Man, and <hi>Haunce</hi> the Dutch Man, and married pretty <hi>Florence</hi> the Cook-maid, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>Woodcut: Simon's three Journeymen; Simon's wife serves dinner on her lap; Mayor Simon feasts the Apprentices</figDesc>
+                  </figure>
+               </p>
+               <p>FOr the honour of the Gentle craft, we yet proceed to another remarkable con<g ref="char:EOLhyphen"/>sideration, which we find recorded in our Chronicles, of one <hi>Simon Eyre,</hi> who being took a poor Boy to the Shooe-makers trade, by his industry, got great riches, was chosen first Sheriff, and then Lord-mayor of <hi>London,</hi> and was a good Benefactor to the City, and much beloved and honoured of all Men: This Youth was born at <hi>Rippon</hi> in <hi>Yorkshire,</hi> and sent up with the Carriers, from his <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Re<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ations, to seek his Fortune in <hi>London,</hi> and happily met with a Shooe-maker in St. <hi>Martins-le-Grand,</hi> who took a liking to him, as he was gazing about in his passage along; and having entertained him a while in his house, upon li<g ref="char:EOLhyphen"/>king, he behaved himself so well that he bound him Apprentice, and charged the Journey-men to shew him the best of the trade▪ so that in <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:152996:9"/> very expert, getting a great insight into it. He omitted to do nothing of hous<g ref="char:EOLhyphen"/>hold-work that was convenient for him, which made him get the Goodwin of his Mistress, who gave him many a penny for his diligence; the which (when he went to fetch water in tankards, with other 'Prentices, as was the custom in those times,) served for pudding-pies, and such like things: but it happened, one <hi>Shrove-tuesday,</hi> in the morning, that his pocket fail'd, when he was breakfasting with the rest, whereupon he stood up and made his excuse, desiring them to pay for him that time, and if ever he came to be Lord-mayor of <hi>London,</hi> he would give a breakfast to all the 'Prentices in the City. This free offer, tho' they little then expected what happened, made them agree to it, saying, <hi>Honest</hi> Simon, <hi>we will take thee at thy word; therefore we pray thee, don't forget it:</hi> He promised he would not; so they parted. <hi>Simon</hi> having rubbed over his seven years, and be<g ref="char:EOLhyphen"/>ing made a Freeman of the City, gained the Goodwill of <hi>Andery,</hi> his Master's Daughter, with whom he had forty marks as a portion; with that, and the little mony he had saved in his 'Prentiship, he took him a shop in <hi>Cheap-side,</hi> kept hard at work, and lived frugally, his Wife spinning shop-thread, and doing other ne<g ref="char:EOLhyphen"/>cessaries about the trade, so that they made a pretty shift in the World, and had 'Prentices and Journey-men at work; and amongst others, he entertained one <hi>John Denevale</hi> a Frenchman, who gained him a great deal of mony, by working upon new fashioned square-toed shooes, they being made long with pick-toes, and picked-heels; but this was not all the kindness he did him, for, one day, going home with a pair of be<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poke shooes, he met with a Merchant-stranger, who, with his ship call'd, <hi>The black Swan of</hi> Candia, richly laden with cambrick, lawns, and other commodities that were then very scarce, was put into the river of <hi>Thames,</hi> this Merchant in the Greek-tongue, demanded of him where he might have a <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odging, or be well entertain'd; but he not well understanding that lan<g ref="char:EOLhyphen"/>guage, answered him in French, which was not unknown to the Merchant, so, being glad, he had got one he could talk with, they went and drank together, and the Merchant told him what goods he had brought, what dangers he had e<g ref="char:EOLhyphen"/>scaped at Sea; and th<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> desired him to help him to an honest Chapman to buy them off his hands. The Frenchman hereupon told him, that he himself was but a stranger in the City, and unacquainted of any Merchants, but that he worked with a very honest Man, whom, if he moved about it, he doubted not, but he would help him all he could: which the Merchant intreated to do; and so, having helped him to a lodging, they parted: <hi>John</hi> the Frenchman, fraught with this news, and a bill of lading, containing the cargo, hasted home, and told honest <hi>Simon</hi> all that he knew of the matter, shewing the bill of parcels, mark<g ref="char:EOLhyphen"/>ed with the prizes, which was an exceeding cheap rate, considering the scar<g ref="char:EOLhyphen"/>city of the commodity at that time; which made him easily perceive that the Mer<g ref="char:EOLhyphen"/>chant understood not his market; so that musing upon the matter, he left his shop and went up into his chamber, walking about and cudgelling his brains, how he might get this advantage, that his thoughts were so entirely taken up in it, tho' the Maid often called him to supper, he either heard not, or minded not her call; and scarce could his Wife, with tugging and hauling put him out of this brown study; but at last, being earnest to know what had so much altered him on a sudden, he told her all, with the great prospect he had by so great a gain, to make her a Lady, had he but the money to buy the purchase, but that being wanting, all his hopes were dashed; that he had the ball at his foot, and must
+<pb n="17" facs="tcp:152996:9"/> let another kick it away. But in this, his Wife, who was naturally covetous and very ambitious, heartned him up, perswading him, in apparel, and all other matters, to go to the Merchant like an Alderman, and personating one to buy the bargain of him; then, before it should be discovered, to sell off so much of the commodity for ready mony, as would pay the whole, and keep the rest to a better market. And indeed this, and her other contrivances, so wrought with him, that putting them in practice, they proved successful, and he got at that one clap three thousand pounds clear. This made every one give him the title of Mr. <hi>Eyre,</hi> and call him the rich Shooe-maker; and this being noised abroad, the Lord-mayor invited him and his Wife to dinner, where they were set in the best seats, highly feasted and complemented; which made the good Woman fancy herself already a Lady; her ears were open to take in all that was said in her and her Husband's commendation, which she repeating to him very movingly when they came home, omiting nothing, praising her own invention that had brought it about, and highly praising her policy and courage, and took such delight in talking of it, that she would have been prating about it to this day had she lived: However, her Husband could not but applaud her, since her en<g ref="char:EOLhyphen"/>couragement and cunning had so highly advanced him. But he, notwithstand<g ref="char:EOLhyphen"/>ing his Shooe-making trade, followed Merchandize, since he had so well sped in the first undertaking, and growing noted, and being every where talked of when election-day for Sheriffs came, the Commons assembled in <hi>Guild-hall,</hi> chose him one of them for the City, in his absence; whereupon the Lord-mayor sent for him, and welcomed him: But he, on the other hand, laboured as much to excuse himself, saying, <hi>People are mistaken in my wealth, for I am not able to hold so charge<g ref="char:EOLhyphen"/>able an office.</hi> Whereupon a Citizen started up, and said, <hi>My Lord, I wonder Mr.</hi> Eyre <hi>will go about to lessen himself, in saying he is not able to hold this place, when I myself, and many others, have heard him say, he has, at home, a table he eats his breakfast on, that he will not take a thousand pound for; and if he can bestow so much on a dead commodity, I see no reason but he should hold this office.</hi> This he excused saying, <hi>I for my fancy value it at that rate, yet perhaps no body else would give me the tenth part for it. Nay,</hi> said the Lord-mayor, <hi>I'll supply you with wine, during your Shrevalty, at a venture for it. Contented,</hi> said he, <hi>my Lord, on that condi<g ref="char:EOLhyphen"/>tion I hold. Well,</hi> said the Lord-mayor, <hi>though I make no bargains with you, hold it you must.</hi> And so the Court rising, he was confirmed Sheriff, which caused a great shout, every one crying, <hi>Mr.</hi> Eyre <hi>is Sheriff;</hi> which news coming to his Wife's care, greatly rejoyced her, as having made this first step towards a Lady, which was that she passionately longed to be; and when he came home, attended by a worthy Citizen or two, she welcom'd him very kindly, and wish<g ref="char:EOLhyphen"/>ed him much joy of his office. Then he ordered her to spread the little table, <hi>For now,</hi> said he, <hi>Gentlemen, I'll show you the table that was spoke of.</hi> Whereupon going into the parlour, and placing herself in a chair, she spread a table cloth on her lap, furnished with choice victuals, told him all was ready; when entering the room, he said, <hi>Lo you there is my thousand pound table; how blank think you my Lord-mayor would have looked when he had seen it, if he had stood to his bar<g ref="char:EOLhyphen"/>gain?</hi> Whereat they laught heartly, sat down, eat, drunk and were merry. In his Shrevalty he behaved himself courteously and nobly, so that three years after encreasing in wealth, and the love of the People, he was by them elected Lord-mayor of the honourable City of <hi>London,</hi> and governed it with great
+<pb n="18" facs="tcp:152996:10"/> Prudence. No sooner was <hi>Shrove-tuesday</hi> come, in the Year of his Mayoralty, but having remember'd his promise, he sent to the Aldermen and Deputies of e<g ref="char:EOLhyphen"/>very Ward, to give the Masters notice, that they would highly oblige him, if they wou'd let their 'Prentices come to his house to breakfast, and to play the re<g ref="char:EOLhyphen"/>mainder of that day, sending them the reason he had to desire it; so that by appointment the smallest bell in every Parish rung at ten in the morning, and im<g ref="char:EOLhyphen"/>mediately thereupon the 'Prentices shut up their shops, and came marching in good order; this Bell, from that day, being ever since call'd the Pancake-bell and the custom has continued, and 'tis generally half holy-day, especially among the Shooemakers: He left the management of this Feast to his prudent Wife, who filled the garden, court-yard, and house with forms, tables, chairs, <hi>&amp;c.</hi> and cover'd them with such plenty of Fritters, Pancakes, Pudding-pies, Ale and Wine, and other things suitable and in season, that they never saw such great store to<g ref="char:EOLhyphen"/>gether in all their lives. The Lord-mayor walked from place to place to see every thing put in order, and that there should be nothing lacking, encourage<g ref="char:EOLhyphen"/>ing 'em to eat, and admonishing 'em to be good Boys, and serve their Masters faithfully, that GOD might send them as good luck as He had sent him: Where<g ref="char:EOLhyphen"/>at they threw up their caps, and gave a great shout for joy; and then, being entertain'd some time with delicate Musick, they with much thankfulness depart<g ref="char:EOLhyphen"/>ed in good order. Soon after this, finding the ill conveniencey the Shooemakers had, because there was no publick Market for the sale of Leather, he bought a large piece of ground at the corner of <hi>Graoe-church-street,</hi> and built on it <hi>Leaden-Hall,</hi> getting the Grant for a publick Market to be kept there for leather every <hi>Monday;</hi> and did many other worthy things, that stands now Monuments of his Remembrance, to the Honor of the Gentle-craft. Now he kept, besides <hi>John</hi> the French Man, one <hi>Haunce</hi> a Dutch Man, and <hi>Nicholas</hi> an English Man, to work at the trade, whose labour brought him in much gain; and amongst other female servants he had one <hi>Florence,</hi> a pretty witty Wench, insomuch, that all their chops water'd after her: <hi>John,</hi> the French Man, being Fore-man of the shop, and highest in his Master's favour, got leave for her to go to <hi>Islington,</hi> that there he might give her a Treat; which she consented to take and he went before to provide it: But the Dutch Man over-hearing it, waited for her in the fields, telling her, <hi>John</hi> the French Man, was gon quite another way, and had drilled her out only to make an <hi>April-fool</hi> of her. This so enraged the Wench, that she cry'd for anger, and so away she went home; then went he to French <hi>John,</hi> and told him how she had slighted him, and never intended to come at him; which made him fret as fast, by reason of the great charge he had been at in tarts, pudding-pies, tansies, musick, and I know not what all: But this being found, at last, to be a trick of the Dutch-man's, <hi>Nicholas</hi> and the other agreed to put one upon him; for he having provided a Collation for his Mistress in the garden, while they were all busie a talking, one of them knocked at the door, as if he had been their Master, disturbing them very much; whilst the other, in the hurry, creeping from behind a bush, changed their bottles of Wine for Water; which trick she fancy'd the Dutch-man had done on purpose, as being run away for fear; she took such pet against him, that she wou'd not admit him to have a smack at her fair lips for many weeks; but at last, coming a little more too, the Marriage was resolv'd on, and to be celebrated in the dark, for the better secresy; but <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at evening they got <hi>Haunce</hi> in, and made him so drunk, that he slept twenty
+<pb n="19" facs="tcp:152996:10"/> four hours; the mean time <hi>Nicholas</hi> going in his stead, whilst <hi>John</hi> the French-man's wife, who was newly come over, had catch'd him napping, and hindred his being there, the matter he order'd so, that by counterfeiting the Dutch-man's voice, he married her, and having done her over lustily that night, she was so well pleased with him, as not to repent her Bargain the next morn<g ref="char:EOLhyphen"/>ing; which the Alderman hearing of, gave her a good Portion, and dealt liberally with all his other Servants.</p>
+               <lg>
+                  <l>The Dutch-man, and the French-man too, did think to get the day,</l>
+                  <l>But <hi>Nicholas,</hi> the English-man, did wed young <hi>Florence</hi> gay.</l>
+               </lg>
+               <div type="text">
+                  <head>A brief Account of the strange Prodigies, and other wonderful things that happened during the Mayoralty of Sr. <hi>Simon Eyre.</hi>
+                  </head>
+                  <p>IN the beginning of his Year such violent Storms happened, as made the Sea break in, and drowned many hundered Acres of Land, much Cattle, and ruined divers Villages, the Breach being made near <hi>Bright-Hempstead.</hi>
+                  </p>
+                  <p>Two small Earthquakes happened, one on the twenty ninth of <hi>August,</hi> and the other on the eighth of <hi>September.</hi>
+                  </p>
+                  <p>A terrible Commet appeard, fore-running the War that happened between <hi>England</hi> and <hi>Scotland;</hi> but more particularly, the lamentable civil War that happen'd between the Houses of <hi>York</hi> and <hi>Lancaster,</hi> which occasion'd the Loss of <hi>France,</hi> and the Lives of a hundered and sixty thousand Englishmen.</p>
+                  <p>In that Summer there was much terrible Thundering and Lightning, which sttuck many Cattle dead in the lanes and fields.</p>
+                  <p>A great Whale of thirty nine Foot in length, and twenty four in Circumfe<g ref="char:EOLhyphen"/>rence, was taken in the Mouth of the <hi>Humber.</hi>
+                  </p>
+                  <p>In this Year the fatal Battle of <hi>Barnet-field</hi> was fought, in which ten thousand Men were slain.</p>
+                  <p>In <hi>June,</hi> two hours after Sun-set, appear'd in the Air, to the Southward, a Pillar of Fire, which continued to do so three nights; afterward the Weather was so sultry that many dy'd of Heat.</p>
+                  <p>A Sow at <hi>Rippon</hi> in <hi>York-shire,</hi> brought forth Pigs with faces like Chil<g ref="char:EOLhyphen"/>dren, and feet like Monkeys; for which she was burnt.</p>
+                  <p>The Conduit in <hi>Fleet-street</hi> then run Blood for half an hour: Many terrible sights were seen in the Air, of Armies fighting, and strange Voices heard; it rained Wheat near <hi>Lancaster,</hi> and after that, small Peble-stones.</p>
+                  <p>At <hi>Royston</hi> a Woman was brought-to-bed of a Child with a Head like a Calf, bleating instead of crying.</p>
+               </div>
+            </div>
+         </div>
+         <div type="song">
+            <pb n="20" facs="tcp:152996:11"/>
+            <head>A Song in Praise of the Gentle-Craft, shewing how Royal Princes, Sons of Kings, Lords, and great Commanders, have been Shooe-makers of old to, the Honour of this Ancient Trade,</head>
+            <opener>To the Tune of, <hi>The Evening Ramble,</hi> &amp;c</opener>
+            <byline>Written by <hi>Richard Righby,</hi> a Brother of the Craft.</byline>
+            <lg>
+               <l>I Sing in the Praise of the Shooe-makers,</l>
+               <l>whose Honour no Person can stain,</l>
+               <l>In every Age they dare to engage,</l>
+               <l>and Victory still they did gain;</l>
+               <l>No Craft in the World can compare</l>
+               <l>with Shooe-making, for I'declare,</l>
+               <l>Who reads but the Story, will set forth their Glory,</l>
+               <l>commending them every-where,</l>
+               <l>As Persons of Honoured Fame and Renown;</l>
+               <l>Then let not their Glory be trampled down.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Hugh</hi> was a Prince and a Lover,</l>
+               <l>yet learned the Shooe-making Trade,</l>
+               <l>Which yielded Relief, when Sorrow and Grief,</l>
+               <l>in Travel, had made him dismaid;</l>
+               <l>When be of his Love was deny'd,</l>
+               <l>he crossed the Ocean so wide,</l>
+               <l>Returning soon after, then with a King's Daughter,</l>
+               <l>a Glorify'd Martyr he dy'd.</l>
+               <l>Thus Shooe-makers have been true Men of Renown,</l>
+               <l>Then let not their Glory for ever go down.</l>
+            </lg>
+            <lg>
+               <l>There's <hi>Crispine,</hi> and brave <hi>Crispianus,</hi>
+               </l>
+               <l>both Brothers, and Sons to a King,</l>
+               <l>In sorrow and woe, from Court they did go,</l>
+               <l>when under a Shooe-maker's Wing,</l>
+               <l>Protection and Safety they found,</l>
+               <l>for 'Prentices straight they were bound;</l>
+               <l>Disguised like Strangers, from perilous Dangers,</l>
+               <l>this Harbour of Safety they found:</l>
+               <l>Thus Princes of Honoured Fame and Renown,</l>
+               <l>Hath Shooe-makers been, that was Heirs to a Crown.</l>
+            </lg>
+            <lg>
+               <l>Young <hi>Crispine</hi> he won the fair Daughtar</l>
+               <l>of Great <hi>Maximinus,</hi> for who</l>
+               <l>Admitted could be, but verily be,</l>
+               <l>to draw on fair <hi>Ursula</hi>'s Shooe,</l>
+               <l>That honoured Lady of Fame,</l>
+               <l>for when to the Palace he came,</l>
+               <l>He soon was admitted, the Shooes being fitted,</l>
+               <l>this Royal Young Beautiful Dame</l>
+               <pb n="21" facs="tcp:152996:11"/>
+               <l>Besought him for Marriage, though Heir to the Crown;</l>
+               <l>Thus Shooe-makers have been brave Lords of Renown.</l>
+            </lg>
+            <lg>
+               <l>His Brother went forth as a Souldier,</l>
+               <l>well Arm'd, to the <hi>Gallican</hi> Shore,</l>
+               <l>Where thousands he kill'd; they never beheld.</l>
+               <l>such conquering Courage before:</l>
+               <l>The Work being speedily done,</l>
+               <l>and the Enemy forced to run;</l>
+               <l>Their General Gallant, Couragious and Valiant,</l>
+               <l>was likewise a Shooe-maker's Son:</l>
+               <l>Thus loaded with honoured Fame and Renown,</l>
+               <l>Then let not brave Shooe-makers Glory go down.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Simon</hi> Lord-Mayor of fair <hi>London,</hi>
+               </l>
+               <l>he was a Sbooe-maker by Trade,</l>
+               <l>Who, while he was Mayor, the Truth to declare,</l>
+               <l>a Dinner of Fritters he made,</l>
+               <l>Inviting the 'Prentices all,</l>
+               <l>who readily came at his Call;</l>
+               <l>That Day they were merry, with Bowls of <hi>Canary,</hi>
+               </l>
+               <l>for he from his word would not fall:</l>
+               <l>Thus good <hi>Simon Eyre,</hi> of Fame and Renown,</l>
+               <l>He was a Shooe-maker, and Lord of the Town.</l>
+            </lg>
+            <lg>
+               <l>Thus Valiant and Noble Shooe-makers,</l>
+               <l>the City and Court did Adorn,</l>
+               <l>For Deeds they have done; a Shooe-maker's Son,</l>
+               <l>I tell you he is a Prince Born;</l>
+               <l>There's no other Trade in the Land,</l>
+               <l>had ever such Royal Command,</l>
+               <l>For Honour and Glory; then read but the Story,</l>
+               <l>then, then you will soon understand,</l>
+               <l>That Shooe-makers they have been fam'd for Renown,</l>
+               <l>Then let not their Triumph and Honour go down.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb facs="tcp:152996:12"/>
+            <head>The Shooemakers Delight: Or, a brief Account of their manly Acts, and warlike Performances:</head>
+            <opener>To the Tune of <hi>The Low-country Souldier.</hi>
+            </opener>
+            <byline>Written by <hi>Richard Rigby,</hi> a Brother of the Craft.</byline>
+            <lg>
+               <l>YOƲ Gentle-Crafts, both far and near,</l>
+               <l>Ʋnto this pleasant Song give ear.</l>
+               <l>The which, in Honour of your Trade,</l>
+               <l>Is now for lasting Glory made;</l>
+               <l>For never was it known,</l>
+               <l>Any Trade but yours alone,</l>
+               <l>Related to the royal Throne:</l>
+               <l>Brave Shooemakers, of old,</l>
+               <l>Were valiant, stout and bold,</l>
+               <l>Right warlike, noble Hearts of Gold.</l>
+            </lg>
+            <lg>
+               <l>They live in Roles of lasting Fame,</l>
+               <l>The first of which I here shall name,</l>
+               <l>Was good Sr. <hi>Hugh,</hi> a worthy Knight,</l>
+               <l>Who for a Lady's Beauty bright,</l>
+               <l>Did cross the raging Main;</l>
+               <l>And when return'd again,</l>
+               <l>This Trade alone did him maintain:</l>
+               <l>Brave Shooemakers of old,</l>
+               <l>Were valiant, stout and bold,</l>
+               <l>Right warlike, noble Hearts of Gold.</l>
+            </lg>
+            <lg>
+               <l>Nay, farther still their Fame shall ring,</l>
+               <l>Two Brothers, Sons unto a King,</l>
+               <l>
+                  <hi>Crispine</hi> and <hi>Crispianus</hi> who,</l>
+               <l>For fear of Death, in private flew</l>
+               <l>From their Father's royal Court,</l>
+               <l>As Fame does still report,</l>
+               <l>To Shooe-making they did resort,</l>
+               <l>And learn'd this Trade of old,</l>
+               <l>As we are truly told,</l>
+               <l>And prov'd right valiant Hearts of Gold.</l>
+            </lg>
+            <lg>
+               <l>To <hi>Feversham</hi> they came with care,</l>
+               <l>And bound themselves both 'Prentice there;</l>
+               <l>Tho' Princes of a royal Birth,</l>
+               <l>They learn'd this Trade, and liv'd in Mirth,</l>
+               <l>
+                  <hi>Crispianus</hi> took his way,</l>
+               <l>To see a bloody Fray;</l>
+               <l>But <hi>Crispine</hi> he at home did stay:</l>
+               <l>Brave Shooemakers of old,</l>
+               <l>Were valiant, stout and bold,</l>
+               <l>Right warlike, noble Hearts of Gold.</l>
+            </lg>
+            <lg>
+               <pb n="23" facs="tcp:152996:12"/>
+               <l>While <hi>Crispianus</hi> gain'd Renown,</l>
+               <l>By hewing warlike Champions down,</l>
+               <l>Young <hi>Crispine</hi> he at home remain'd,</l>
+               <l>Where he a Lady's favour gain'd;</l>
+               <l>Her Love had taken root,</l>
+               <l>Therefore, without dispute,</l>
+               <l>There's none but he cou'd fit her foot:</l>
+               <l>Thus Shooemakers of old,</l>
+               <l>As Chronicles have told,</l>
+               <l>Were brave heroick Hearts of Gold.</l>
+            </lg>
+            <lg>
+               <l>Nay, farther yet I will declare.</l>
+               <l>Renowned <hi>London</hi>'s brave Lord-mayor,</l>
+               <l>Sir <hi>Simon Eyre</hi> called by Name,</l>
+               <l>Was a brave Shooemaker of Fame.</l>
+               <l>What Trade, I pray, beside,</l>
+               <l>Was e'er so glorify'd</l>
+               <l>As Shooemakers, who has been try'd</l>
+               <l>By Feats of Arms of old,</l>
+               <l>Both valiant, stout and bold,</l>
+               <l>Heroick, warlike Hearts of Gold?</l>
+            </lg>
+            <lg>
+               <l>A Shooemaker has been the Head</l>
+               <l>Of a vast Army, which he led</l>
+               <l>Like a renowned General:</l>
+               <l>Wherefore this Trade we must extal</l>
+               <l>Evermore, from Age to Age,</l>
+               <l>For they'll mount the warlike Stage,</l>
+               <l>And never fearful to engage:</l>
+               <l>Thus Shooemakers of old,</l>
+               <l>Were valiant, stout and bold,</l>
+               <l>Renowned, warlike Hearts of Gold.</l>
+            </lg>
+            <lg>
+               <l>For Quarter-staff, nay, Sword and Spear,</l>
+               <l>There's few or none cou'd e'er come near</l>
+               <l>Renowned Shooemakers, for they</l>
+               <l>Did at those Weapons often play</l>
+               <l>And they were so active grown,</l>
+               <l>They would turn their Backs to none:</l>
+               <l>Thus famous Shooemakers alone,</l>
+               <l>Were the valiant Men of old,</l>
+               <l>Most couragious, stout and bold,</l>
+               <l>Heroick, warlike Hearts of Gold.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="24" facs="tcp:152996:13"/>
+            <head>A Catalogue of several Pleasant and Delightful Books, which are to be Sold by the Booksellers of <hi>Pye-corner</hi> and <hi>London-Bridge.</hi>
+            </head>
+            <list>
+               <item>THe famous and pleasant History of <hi>Parismus,</hi> the Valiant and Renowned Prince of <hi>Bohemia:</hi> In <hi>III.</hi> Parts. <hi>I.</hi> Containing his Triumphant Battles fought against the <hi>Persians,</hi> his Love to the Beautiful <hi>Laurania,</hi> the great Dangers he passed in the <hi>Island of Rocks;</hi> and his strange Adventures in the <hi>Desolate Island. II.</hi> Containing the Adventurous Travels, and Noble Chivalry of <hi>Parismenos,</hi> the <hi>Knight of Fame,</hi> with his Love to the Fair Princess <hi>Angelica,</hi> the Lady of the <hi>Golden Tower. III.</hi> Containing the Admirable Adventures and truly Heroick Atchivements of <hi>Parismenides,</hi> Knight of the <hi>Golden Star;</hi> with hi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Love to the Fair <hi>Astrea,</hi> Princess of <hi>Austracia,</hi> and other Adventures. <hi>Price bd.</hi> 1 s.</item>
+               <item>The Comical and Tragical History of <hi>Fortunatus:</hi> Wherein is contain'd his Birth, Travels, Adventures, and last Will and Testament to his two Sons, to whom he be<g ref="char:EOLhyphen"/>queathed his Purse and Wishing-cap; as also their Lives and Deaths. Illustrated with divers Pictures. In Octavo. <hi>Price bd.</hi> 1 s.</item>
+               <item>The most Pleasing and Delightful History of <hi>Reynard</hi> the Fox, and <hi>Reynardine</hi> his Son. In two Parts. With the Morals to each Chapter, explaining what appears Doubtful, or Allegorical. And every Chapter illustrated with a curious Device, or Picture, representing to the Eye, all the material Passages. Done in the most Re<g ref="char:EOLhyphen"/>fined English. <hi>Price bd.</hi> 1 s.</item>
+               <item>The Compleat BOOK of Knowledge: treating of the Wisdom of the Ancients; and shewing the various and wonderful Operations of the Signs and Planets, and other Celestial Constellations, on the Bodies of Men, Women and Children; and the mighty Influences they have upon those that are born under them. <hi>To which is ad<g ref="char:EOLhyphen"/>ded,</hi> The Country Man's Kalendar; containing his daily Practice, and perpetual Prognostications for Weather; together with a Catalogue of all the Market-towns, Fairs and Roads in <hi>England</hi> and <hi>Wales.</hi> Compiled by <hi>Erra Pater,</hi> a Jew, Doctor in Astronomy and Physick, born in <hi>Bethany,</hi> in <hi>Judea;</hi> made English by <hi>W. Lilly,</hi> Student in Physick and Astrology.</item>
+               <item>The Garland of Delight; containing Thirty excellent Songs, being Chronicles and Histories of Kings, Queens, Princes, Lords, Knights, Gentlemen and Ladies of this Kingdom: together with several Love-sonnets, <hi>Written by</hi> Thomas Delone, <hi>Gen<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Octavo.</hi>
+               </item>
+               <item>The Crown Garland of Golden Roses, gathered out of <hi>England</hi>'s Royal Garden; being full of many pleasant and delightful Songs and Sonnets. Divided tnto two Parts. <hi>Octavo.</hi>
+               </item>
+               <item>
+                  <hi>Robin Hood's</hi> Garland: Being a compleat History of all his merry Exploits and valiant Fights which He, <hi>Little John,</hi> and <hi>Will. Scadlock,</hi> fought on divers Oc<g ref="char:EOLhyphen"/>casions. <hi>Octavo.</hi>
+               </item>
+               <item>The High Dutch and German Fortune-teller: wherein all those Questions relating to the several States, Conditions and Occasions of Humane Life, are fully Resolved and answered, according to the Rules of Art, used by the Ancient and Famous <hi>Egyptian Magi,</hi> or Wise Men and Philosophers. To which is added, The Art of Palmistry; as it was practised by the Ancient <hi>Egyptians</hi> (from whom the Art of Palmistry was Originally derived) shewing a Person's Good or Bad Fortune, by the Lines and Marks that are found in the Hand and Wrist. The whole being more Correct than anything of this Nature hitherto published. Quarto. <hi>Price</hi> 2d.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
